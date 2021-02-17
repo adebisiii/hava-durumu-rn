@@ -1,0 +1,12 @@
+{
+  "name": "hava-durumu",
+  "displayName": "hava-durumu",
+  "expo": {
+    "name": "hava-durumu",
+    "slug": "hava-durumu",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
